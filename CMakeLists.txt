@@ -81,6 +81,8 @@ endif()
         src/robot_modeling/DQ_WholeBody_py.cpp
         cpp/src/robot_modeling/DQ_SerialWholeBody.cpp
         src/robot_modeling/DQ_SerialWholeBody_py.cpp
+        cpp/src/robot_modeling/DQ_FreeFlyingRobot.cpp
+        src/robot_modeling/DQ_FreeFlyingRobot_py.cpp
 
         #robot_control
         cpp/src/robot_control/DQ_KinematicController.cpp
