@@ -22,7 +22,7 @@ Contributors:
        https://github.com/dqrobotics/matlab/pull/66/commits
 
     2. Juan Jose Quiroz Omana   (juanjqo@g.ecc.u-tokyo.ac.jp)
-       Created this file.
+       Created this file based on DQ_HolonomicBase_py.cpp
 */
 
 #include "../dqrobotics_module.h"
