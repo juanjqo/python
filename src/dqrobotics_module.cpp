@@ -109,6 +109,9 @@ PYBIND11_MODULE(_dqrobotics, m) {
     //DQ_SerialWholeBody
     init_DQ_SerialWholeBody_py(robot_modeling);
 
+    //DQ_FreeFlyingRobot
+    init_DQ_FreeFlyingRobot_py(robot_modeling);
+
     /*****************************************************
      *  Solvers <dqrobotics/solvers/...>
      * **************************************************/
